@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="376976da-6868-4d89-842f-523f06f117ff" name="Changes" comment="new project created">
-      <changelist_data name="Alex-Krasko" email="terabit.company@gmail.com" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AssertExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/task/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/task/task2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,11 +69,11 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.task1">
+  <component name="RunManager" selected="Application.task2">
     <configuration name="AssertExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="corretto-18" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -102,6 +100,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-18" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="task.task2" />
+      <module name="UnitTestsSeminars" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="untitled" />
       <method v="2">
@@ -116,11 +130,13 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.task2" />
       <item itemvalue="Application.task1" />
       <item itemvalue="Application.AssertExample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.task2" />
         <item itemvalue="Application.task1" />
         <item itemvalue="Application.AssertExample" />
       </list>
@@ -141,7 +157,7 @@
       <workItem from="1694615732701" duration="1185000" />
       <workItem from="1694617097287" duration="1000" />
       <workItem from="1694617129441" duration="246000" />
-      <workItem from="1694617381888" duration="1577000" />
+      <workItem from="1694617381888" duration="2078000" />
     </task>
     <task id="LOCAL-00001" summary="new project created">
       <option name="closed" value="true" />
@@ -191,7 +207,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694617627360</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="new project created">
+      <option name="closed" value="true" />
+      <created>1694619015599</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1694619015599</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
